@@ -26,7 +26,7 @@ Managed daily laboratory operations, ensuring adherence to safety protocols and 
 - Data Exploration: Performed in-depth exploratory data analysis (EDA) to identify key patterns in revenue and customer behavior.
 SQL: Movie Dataset Analysis: 
 
-#### Excel: AtliQ Hardware: Loan Default Prediction & Risk Analysis - SQL Project
+#### MySQL: Loan Default Prediction & Risk Analysis 
 - This project simulates a real-world Credit Risk Analysis environment. The goal was to analyze a dataset of customers, loans, and repayment history to identify high-risk borrowers and calculate key financial metrics like Debt-to-Income (DTI) Ratios and Default Rates.
 
 - The project moves beyond basic CRUD operations to demonstrate complex business logic, including Vintage Analysis, Cohort Retention, and Window Functions for trend analysis.
