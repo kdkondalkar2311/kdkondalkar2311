@@ -8,24 +8,33 @@ Aspiring to secure a responsible position in the field of microbiology and healt
 ### EXPERIENCE:
 #### Data/Financial Analyst Intern: 
 #### ISEES Technologies                                                                                           July 2024 –  Present
-Healthcare Operations Dashboard: Developed an interactive Excel dashboard using Power Query and Power Pivot to visualize patient flow, resulting in optimized waiting times and improved patient satisfaction rates.
-Data Pipeline Management: Orchestrated end-to-end data ingestion, cleaning, and transformation processes to ensure accuracy in tracking critical KPIs like patient admission duration and discharge turnaround.
-Operational Efficiency: Analyzed waiting time metrics to identify bottlenecks, providing actionable insights that streamlined the discharge process.
+- Healthcare Operations Dashboard: Developed an interactive Excel dashboard using Power Query and Power Pivot to visualize patient flow, resulting in optimized waiting times and improved patient satisfaction rates.
+- Data Pipeline Management: Orchestrated end-to-end data ingestion, cleaning, and transformation processes to ensure accuracy in tracking critical KPIs like patient admission duration and discharge turnaround.
+- Operational Efficiency: Analyzed waiting time metrics to identify bottlenecks, providing actionable insights that streamlined the discharge process.
 
 #### Lab Technician: SAI Pathology Laboratory 					Nov 2020 - April 2024 
-Conducted microbiological tests, including blood and semen analysis, with a focus on accuracy and quality control.
+- Conducted microbiological tests, including blood and semen analysis, with a focus on accuracy and quality control.
 Managed daily laboratory operations, ensuring adherence to safety protocols and quality standards. 
-Assisted in the preparation and processing of samples for diagnostic purposes, including hematologic, biochemistry, and clinical pathology.
-Utilized the E-Labassist software for efficient data entry and report generation.
-Ensured proper maintenance and calibration of laboratory equipment, including microscopes and other diagnostic tools
+- Assisted in the preparation and processing of samples for diagnostic purposes, including hematologic, biochemistry, and clinical pathology.
+- Utilized the E-Labassist software for efficient data entry and report generation.
+- Ensured proper maintenance and calibration of laboratory equipment, including microscopes and other diagnostic tools
 
 ### PROJECT:
 #### Excel: AtliQ Hardware:
-Retail Sales Analysis: Conducted a comprehensive analysis of real-time retail datasets from AtliQ Hardware (via Codebasics) to track sales performance and market trends.
-Dashboard Design: Designed and developed effective dashboards to translate complex data collection into clear, actionable business insights.
-Data Exploration: Performed in-depth exploratory data analysis (EDA) to identify key patterns in revenue and customer behavior.
+- Retail Sales Analysis: Conducted a comprehensive analysis of real-time retail datasets from AtliQ Hardware (via Codebasics) to track sales performance and market trends.
+- Dashboard Design: Designed and developed effective dashboards to translate complex data collection into clear, actionable business insights.
+- Data Exploration: Performed in-depth exploratory data analysis (EDA) to identify key patterns in revenue and customer behavior.
 SQL: Movie Dataset Analysis: 
 
+#### Excel: AtliQ Hardware: Loan Default Prediction & Risk Analysis - SQL Project
+- This project simulates a real-world Credit Risk Analysis environment. The goal was to analyze a dataset of customers, loans, and repayment history to identify high-risk borrowers and calculate key financial metrics like Debt-to-Income (DTI) Ratios and Default Rates.
+
+- The project moves beyond basic CRUD operations to demonstrate complex business logic, including Vintage Analysis, Cohort Retention, and Window Functions for trend analysis.
+- The database consists of three relational tables designed to mimic a banking schema:
+
+Customers: Stores demographic and income details (cust_id, income, employment_len).
+Loans: Details of loan terms, interest rates, and amounts (loan_id, loan_amount, term_months).
+Repayments: Transactional data tracking payment status (pay_id, amount_paid, status [Late/On-Time/Missed]).
 
 ### SKILLS:
 - Analytics: Data Collection, Data Pre-processing, Data Cleaning, Data Mining, Statistics, Data Visualization.
